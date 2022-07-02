@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kalimophom
+- 👋 Hi, I’m @alexpeyton
 - 👀 I’m interested in tech, web and operating systems
 - 🌱 I’m currently learning Rust, Java, JavaScript
 
